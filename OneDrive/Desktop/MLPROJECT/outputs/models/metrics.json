@@ -1,0 +1,15 @@
+{
+  "train_rmse": 26.928995574403345,
+  "test_rmse": 39.651204045582176,
+  "test_mae": 28.115147359256937,
+  "test_r2": 0.6558790798532572,
+  "cv_rmse": 40.11053805615842,
+  "cv_std": 0.48490472314696637,
+  "bias": 1.1263829680712885,
+  "bias_pct": 1.0352752353976575,
+  "early_detection_rate": 90.70981210855949,
+  "over_maintenance": 1533,
+  "under_maintenance": 143,
+  "engines_flagged": 1125,
+  "annual_savings": 28125000.0
+}

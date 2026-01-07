@@ -1,0 +1,24 @@
+# Core Data Processing (GE Predix-style pipelines)
+pandas>=2.0.0
+numpy>=1.24.0
+sqlalchemy>=2.0.0
+
+# Machine Learning (Scikit-learn - compatible with NumPy 2.x)
+scikit-learn>=1.5.0
+joblib>=1.3.0
+
+# Visualization (Spotfire/Tableau alternatives)
+plotly>=5.18.0
+streamlit>=1.29.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Reporting (Engineering docs)
+reportlab>=4.0.0
+fpdf2>=2.7.0
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
